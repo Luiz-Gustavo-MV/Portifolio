@@ -31,7 +31,7 @@ body{
 }
 
 .principal{
-    background-image: url(/img/programacao-python.jpg);
+    background-image: url(img/programacao-python.jpg);
     
     background-size: cover; 
     background-position: center;
